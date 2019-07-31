@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2019-07-31
 ---
 
 Oh, I am just oneeeee
