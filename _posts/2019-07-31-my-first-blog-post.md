@@ -1,6 +1,6 @@
 ---
-İçerik: "Bugün:"
-Tarih: 2019-07-31
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 ---
 
 Oh, I am just oneeeee
